@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.bdmain{
+    background-color: rgb(235, 234, 234);
+}
+
+.cont ul li{
+    position: relative;
+    left: 433px;
+    margin-left: 15px;
+}
+
+.searchlogo{
+    position: relative;
+    right: 36px;
+    top: 6px;
+}
+
+.arctechlogo{
+    height: 50px;
+    width: 252px;
+}
+
+.masterlogo2{
+    height: 43px;
+    width: 43px;
+    mix-blend-mode: multiply;
+}
+
+.ritem{
+    position: relative;
+    top: 7px;
+}
+
+.chargegp{
+    position: relative;
+    left: 0px;
+    top: 60px;
+}
+
+.gpdiv1{
+    border: none;
+    background-color: white;
+    height: 320px;
+    width: 440px;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+
+.gpdiv1 h6{
+    position: relative;
+    top: 15px;
+}
+
+.rec1{
+    height: 50px;
+    width: 50px;
+}
+
+.rec2{
+    height: 50px;
+    width: 50px;
+}
+
+.gpli1 ul{
+    list-style-type: none;
+}
